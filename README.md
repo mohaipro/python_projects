@@ -1,5 +1,7 @@
 # 🐍 python_projects
 
+**⚠️ This repository is currently under construction. Expect frequent updates and changes.**
+
 A curated collection of Python projects ranging from beginner-level scripts to intermediate and advanced applications. This repository is designed for learners, developers, and enthusiasts looking to explore Python's wide range of capabilities in real-world applications.
 
 ## 🚀 About
@@ -15,4 +17,3 @@ This repository contains multiple standalone Python projects. Each project inclu
 - APIs and web development
 
 ## 📁 Repository Structure
-
